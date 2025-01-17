@@ -1,6 +1,9 @@
-## Hi there 👋
+
 
 ewgf.gg is an open-source website that collects, processes, and analyzes TEKKEN 8 match data to provide player statistics and game analytics. 
+
+* Join us on [Discord](https://discord.gg/EUEnH99har)
+* [About](https://www.ewgf.gg/about)
 <!--
 
 **Here are some ideas to get you started:**
