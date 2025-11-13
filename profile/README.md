@@ -1,6 +1,6 @@
 
 
-ewgf.gg is an open-source website that collects, processes, and analyzes TEKKEN 8 match data to provide player statistics and game analytics. 
+ewgf.gg is website and analytics platform that collects, processes, and analyzes TEKKEN 8 match data to provide player statistics and a glimpse into the overall Tekken metagame. 
 
 * Join us on [Discord](https://discord.gg/EUEnH99har)
 * [About](https://www.ewgf.gg/about)
